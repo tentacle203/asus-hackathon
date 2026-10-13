@@ -1,0 +1,722 @@
+{
+    "node_01_01": {
+        "node_id": "node_01",
+        "image_path": "train_images/node_01_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 60,
+        "latitude": 23.001667,
+        "longitude": 120.226111
+    },
+    "node_01_02": {
+        "node_id": "node_01",
+        "image_path": "train_images/node_01_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 226,
+        "latitude": 23.001667,
+        "longitude": 120.226389
+    },
+    "node_01_03": {
+        "node_id": "node_01",
+        "image_path": "train_images/node_01_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 341,
+        "latitude": 23.001667,
+        "longitude": 120.226111
+    },
+    "node_01_04": {
+        "node_id": "node_01",
+        "image_path": "train_images/node_01_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 155,
+        "latitude": 23.001667,
+        "longitude": 120.226111
+    },
+    "node_02_01": {
+        "node_id": "node_02",
+        "image_path": "train_images/node_02_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 267,
+        "latitude": 23.001667,
+        "longitude": 120.225556
+    },
+    "node_02_02": {
+        "node_id": "node_02",
+        "image_path": "train_images/node_02_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 28,
+        "latitude": 23.001667,
+        "longitude": 120.225556
+    },
+    "node_02_03": {
+        "node_id": "node_02",
+        "image_path": "train_images/node_02_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 140,
+        "latitude": 23.001667,
+        "longitude": 120.225556
+    },
+    "node_02_04": {
+        "node_id": "node_02",
+        "image_path": "train_images/node_02_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 232,
+        "latitude": 23.001667,
+        "longitude": 120.225556
+    },
+    "node_03_01": {
+        "node_id": "node_03",
+        "image_path": "train_images/node_03_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 220,
+        "latitude": 23.000833,
+        "longitude": 120.224722
+    },
+    "node_03_02": {
+        "node_id": "node_03",
+        "image_path": "train_images/node_03_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 340,
+        "latitude": 23.000833,
+        "longitude": 120.224722
+    },
+    "node_03_03": {
+        "node_id": "node_03",
+        "image_path": "train_images/node_03_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 68,
+        "latitude": 23.000833,
+        "longitude": 120.224722
+    },
+    "node_03_04": {
+        "node_id": "node_03",
+        "image_path": "train_images/node_03_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 151,
+        "latitude": 23.000833,
+        "longitude": 120.224722
+    },
+    "node_04_01": {
+        "node_id": "node_04",
+        "image_path": "train_images/node_04_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 174,
+        "latitude": 23.000556,
+        "longitude": 120.226667
+    },
+    "node_04_02": {
+        "node_id": "node_04",
+        "image_path": "train_images/node_04_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 273,
+        "latitude": 23.000556,
+        "longitude": 120.226667
+    },
+    "node_04_03": {
+        "node_id": "node_04",
+        "image_path": "train_images/node_04_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 7,
+        "latitude": 23.000556,
+        "longitude": 120.226667
+    },
+    "node_04_04": {
+        "node_id": "node_04",
+        "image_path": "train_images/node_04_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 89,
+        "latitude": 23.000556,
+        "longitude": 120.226667
+    },
+    "node_05_01": {
+        "node_id": "node_05",
+        "image_path": "train_images/node_05_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 67,
+        "latitude": 23.001944,
+        "longitude": 120.226667
+    },
+    "node_05_02": {
+        "node_id": "node_05",
+        "image_path": "train_images/node_05_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 153,
+        "latitude": 23.001944,
+        "longitude": 120.226667
+    },
+    "node_05_03": {
+        "node_id": "node_05",
+        "image_path": "train_images/node_05_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 247,
+        "latitude": 23.001944,
+        "longitude": 120.226667
+    },
+    "node_05_04": {
+        "node_id": "node_05",
+        "image_path": "train_images/node_05_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 339,
+        "latitude": 23.001944,
+        "longitude": 120.226667
+    },
+    "node_06_01": {
+        "node_id": "node_06",
+        "image_path": "train_images/node_06_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 310,
+        "latitude": 23.002222,
+        "longitude": 120.225000
+    },
+    "node_06_02": {
+        "node_id": "node_06",
+        "image_path": "train_images/node_06_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 72,
+        "latitude": 23.002222,
+        "longitude": 120.225000
+    },
+    "node_06_03": {
+        "node_id": "node_06",
+        "image_path": "train_images/node_06_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 205,
+        "latitude": 23.002222,
+        "longitude": 120.225000
+    },
+    "node_06_04": {
+        "node_id": "node_06",
+        "image_path": "train_images/node_06_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 288,
+        "latitude": 23.002222,
+        "longitude": 120.225000
+    },
+    "node_07_01": {
+        "node_id": "node_07",
+        "image_path": "train_images/node_07_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 173,
+        "latitude": 23.001389,
+        "longitude": 120.225278
+    },
+    "node_07_02": {
+        "node_id": "node_07",
+        "image_path": "train_images/node_07_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 276,
+        "latitude": 23.001389,
+        "longitude": 120.225278
+    },
+    "node_07_03": {
+        "node_id": "node_07",
+        "image_path": "train_images/node_07_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 11,
+        "latitude": 23.001389,
+        "longitude": 120.225278
+    },
+    "node_07_04": {
+        "node_id": "node_07",
+        "image_path": "train_images/node_07_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 101,
+        "latitude": 23.001389,
+        "longitude": 120.225278
+    },
+    "node_08_01": {
+        "node_id": "node_08",
+        "image_path": "train_images/node_08_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 113,
+        "latitude": 23.001111,
+        "longitude": 120.225278
+    },
+    "node_08_02": {
+        "node_id": "node_08",
+        "image_path": "train_images/node_08_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 204,
+        "latitude": 23.001111,
+        "longitude": 120.225278
+    },
+    "node_08_03": {
+        "node_id": "node_08",
+        "image_path": "train_images/node_08_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 287,
+        "latitude": 23.001111,
+        "longitude": 120.225278
+    },
+    "node_08_04": {
+        "node_id": "node_08",
+        "image_path": "train_images/node_08_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 29,
+        "latitude": 23.001111,
+        "longitude": 120.225278
+    },
+    "node_09_01": {
+        "node_id": "node_09",
+        "image_path": "train_images/node_09_01.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 0,
+        "latitude": 23.001667,
+        "longitude": 120.226389
+    },
+    "node_09_02": {
+        "node_id": "node_09",
+        "image_path": "train_images/node_09_02.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 88,
+        "latitude": 23.001667,
+        "longitude": 120.226389
+    },
+    "node_09_03": {
+        "node_id": "node_09",
+        "image_path": "train_images/node_09_03.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 175,
+        "latitude": 23.001389,
+        "longitude": 120.226389
+    },
+    "node_09_04": {
+        "node_id": "node_09",
+        "image_path": "train_images/node_09_04.jpg",
+        "image_width": 4284,
+        "image_height": 5712,
+        "heading": 264,
+        "latitude": 23.001389,
+        "longitude": 120.226389
+    },
+    "node_10_01": {
+        "node_id": "node_10",
+        "image_path": "train_images/node_10_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00146,
+        "longitude": 120.22661
+    },
+    "node_10_02": {
+        "node_id": "node_10",
+        "image_path": "train_images/node_10_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00146,
+        "longitude": 120.22661
+    },
+    "node_10_03": {
+        "node_id": "node_10",
+        "image_path": "train_images/node_10_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00146,
+        "longitude": 120.22661
+    },
+    "node_10_04": {
+        "node_id": "node_10",
+        "image_path": "train_images/node_10_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00146,
+        "longitude": 120.22661
+    },
+    "node_11_01": {
+        "node_id": "node_11",
+        "image_path": "train_images/node_11_01.jpg",
+        "image_width": 1206,
+        "image_height": 1441,
+        "heading": 0,
+        "latitude": 23.00116,
+        "longitude": 120.22684
+    },
+    "node_11_02": {
+        "node_id": "node_11",
+        "image_path": "train_images/node_11_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00116,
+        "longitude": 120.22684
+    },
+    "node_11_03": {
+        "node_id": "node_11",
+        "image_path": "train_images/node_11_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00116,
+        "longitude": 120.22684
+    },
+    "node_11_04": {
+        "node_id": "node_11",
+        "image_path": "train_images/node_11_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00116,
+        "longitude": 120.22684
+    },
+    "node_12_01": {
+        "node_id": "node_12",
+        "image_path": "train_images/node_12_01.jpg",
+        "image_width": 1206,
+        "image_height": 1447,
+        "heading": 0,
+        "latitude": 23.00066,
+        "longitude": 120.22615
+    },
+    "node_12_02": {
+        "node_id": "node_12",
+        "image_path": "train_images/node_12_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00066,
+        "longitude": 120.22615
+    },
+    "node_12_03": {
+        "node_id": "node_12",
+        "image_path": "train_images/node_12_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00066,
+        "longitude": 120.22615
+    },
+    "node_12_04": {
+        "node_id": "node_12",
+        "image_path": "train_images/node_12_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00066,
+        "longitude": 120.22615
+    },
+    "node_13_01": {
+        "node_id": "node_13",
+        "image_path": "train_images/node_13_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00074,
+        "longitude": 120.22559
+    },
+    "node_13_02": {
+        "node_id": "node_13",
+        "image_path": "train_images/node_13_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00074,
+        "longitude": 120.22559
+    },
+    "node_13_03": {
+        "node_id": "node_13",
+        "image_path": "train_images/node_13_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00074,
+        "longitude": 120.22559
+    },
+    "node_13_04": {
+        "node_id": "node_13",
+        "image_path": "train_images/node_13_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00074,
+        "longitude": 120.22559
+    },
+    "node_14_01": {
+        "node_id": "node_14",
+        "image_path": "train_images/node_14_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00134,
+        "longitude": 120.22518
+    },
+    "node_14_02": {
+        "node_id": "node_14",
+        "image_path": "train_images/node_14_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00134,
+        "longitude": 120.22518
+    },
+    "node_14_03": {
+        "node_id": "node_14",
+        "image_path": "train_images/node_14_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00134,
+        "longitude": 120.22518
+    },
+    "node_14_04": {
+        "node_id": "node_14",
+        "image_path": "train_images/node_14_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00134,
+        "longitude": 120.22518
+    },
+    "node_15_01": {
+        "node_id": "node_15",
+        "image_path": "train_images/node_15_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00168,
+        "longitude": 120.22599
+    },
+    "node_15_02": {
+        "node_id": "node_15",
+        "image_path": "train_images/node_15_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00168,
+        "longitude": 120.22599
+    },
+    "node_15_03": {
+        "node_id": "node_15",
+        "image_path": "train_images/node_15_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00168,
+        "longitude": 120.22599
+    },
+    "node_15_04": {
+        "node_id": "node_15",
+        "image_path": "train_images/node_15_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00168,
+        "longitude": 120.22599
+    },
+    "node_16_01": {
+        "node_id": "node_16",
+        "image_path": "train_images/node_16_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00195,
+        "longitude": 120.22600
+    },
+    "node_16_02": {
+        "node_id": "node_16",
+        "image_path": "train_images/node_16_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00195,
+        "longitude": 120.22600
+    },
+    "node_16_03": {
+        "node_id": "node_16",
+        "image_path": "train_images/node_16_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00195,
+        "longitude": 120.22600
+    },
+    "node_16_04": {
+        "node_id": "node_16",
+        "image_path": "train_images/node_16_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00195,
+        "longitude": 120.22600
+    },
+    "node_17_01": {
+        "node_id": "node_17",
+        "image_path": "train_images/node_17_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00168,
+        "longitude": 120.22488
+    },
+    "node_17_02": {
+        "node_id": "node_17",
+        "image_path": "train_images/node_17_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00168,
+        "longitude": 120.22488
+    },
+    "node_17_03": {
+        "node_id": "node_17",
+        "image_path": "train_images/node_17_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00168,
+        "longitude": 120.22488
+    },
+    "node_17_04": {
+        "node_id": "node_17",
+        "image_path": "train_images/node_17_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00168,
+        "longitude": 120.22488
+    },
+    "node_18_01": {
+        "node_id": "node_18",
+        "image_path": "train_images/node_18_01.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 0,
+        "latitude": 23.00091,
+        "longitude": 120.22546
+    },
+    "node_18_02": {
+        "node_id": "node_18",
+        "image_path": "train_images/node_18_02.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 90,
+        "latitude": 23.00091,
+        "longitude": 120.22546
+    },
+    "node_18_03": {
+        "node_id": "node_18",
+        "image_path": "train_images/node_18_03.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 180,
+        "latitude": 23.00091,
+        "longitude": 120.22546
+    },
+    "node_18_04": {
+        "node_id": "node_18",
+        "image_path": "train_images/node_18_04.jpg",
+        "image_width": 2160,
+        "image_height": 2880,
+        "heading": 270,
+        "latitude": 23.00091,
+        "longitude": 120.22546
+    },
+    "node_19_01": {
+        "node_id": "node_19",
+        "image_path": "train_images/node_19_01.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 0,
+        "latitude": 23.0017363,
+        "longitude": 120.2250141
+    },
+    "node_19_02": {
+        "node_id": "node_19",
+        "image_path": "train_images/node_19_02.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 90,
+        "latitude": 23.0017363,
+        "longitude": 120.2250141
+    },
+    "node_19_03": {
+        "node_id": "node_19",
+        "image_path": "train_images/node_19_03.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 180,
+        "latitude": 23.0017363,
+        "longitude": 120.2250141
+    },
+    "node_19_04": {
+        "node_id": "node_19",
+        "image_path": "train_images/node_19_04.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 270,
+        "latitude": 23.0017363,
+        "longitude": 120.2250141
+    },
+    "node_20_01": {
+        "node_id": "node_20",
+        "image_path": "train_images/node_20_01.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 0,
+        "latitude": 23.0016724,
+        "longitude": 120.2250897
+    },
+    "node_20_02": {
+        "node_id": "node_20",
+        "image_path": "train_images/node_20_02.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 90,
+        "latitude": 23.0016724,
+        "longitude": 120.2250897
+    },
+    "node_20_03": {
+        "node_id": "node_20",
+        "image_path": "train_images/node_20_03.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 180,
+        "latitude": 23.0016724,
+        "longitude": 120.2250897
+    },
+    "node_20_04": {
+        "node_id": "node_20",
+        "image_path": "train_images/node_20_04.jpg",
+        "image_width": 3000,
+        "image_height": 4000,
+        "heading": 270,
+        "latitude": 23.0016724,
+        "longitude": 120.2250897
+    }
+}
